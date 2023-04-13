@@ -59,6 +59,4 @@
 
 ![Profile views](https://gpvc.arturio.dev/hadisa)
 
-<!-- ![Codewars Badge](https://www.codewars.com/users/kazim-kayhan/badges/small) -->
-
-<a href="https://app.daily.dev/mohcen-parsa" align="center"><img src="https://github.com/hadisa/hadisa/blob/main/devcard.svg" alt="hadisa Parsa's Dev Card"/></a>
+<a href="https://app.daily.dev/hadisa" align="center"><img src="https://github.com/hadisa/hadisa/blob/main/devcard.svg" alt="hadisa Parsa's Dev Card"/></a>
