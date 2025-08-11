@@ -80,10 +80,17 @@
 ## 📊 GitHub Stats & Streaks  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hadisa&show_icons=true&theme=tokyonight" />
+  
   <img width="48%" src="https://streak-stats.demolab.com/?user=hadisa&theme=tokyonight" />
 </p>
 
+---
+
+## 📚 Most Used Languages  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadisa&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
 ---
 
 ## 📈 Contribution Graph  
