@@ -112,4 +112,5 @@
 
 ---
 
-![Profile views](https://gpvc.arturio.dev/hadisa)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hadisa.hadisa)
+
