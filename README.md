@@ -48,20 +48,16 @@
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&logo=css3&fill=black&svgfill=2965f1"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&logo=html5&fill=black&svgfill=e34f26"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&logo=sass&fill=black&svgfill=cd6799"></a>
-
   <!-- Backend -->
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&logo=node.js&fill=black&svgfill=339933"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&logo=strapi&fill=black&svgfill=2e7eea"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&logo=go&fill=black&svgfill=00add8"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&logo=java&fill=black&svgfill=f89820"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&logo=graphql&fill=black&svgfill=e10098"></a>
-
-
   <!-- Databases -->
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&logo=postgresql&fill=black&svgfill=336791"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&logo=mysql&fill=black&svgfill=4479a1"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&logo=mongodb&fill=black&svgfill=47a248"></a>
-
   <!-- DevOps & Tools -->
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&logo=docker&fill=black&svgfill=2496ed"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&logo=kubernetes&fill=black&svgfill=326ce5"></a>
@@ -70,7 +66,6 @@
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&logo=git&fill=black&svgfill=f05032"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&logo=github&fill=black&svgfill=ffffff"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&logo=npm&fill=black&svgfill=cb3837"></a>
-
   <!-- Build Tools & Testing -->
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&logo=webpack&fill=black&svgfill=8ed5fa&animation=spin"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&logo=babel&fill=black&svgfill=f9dc3e"></a>
